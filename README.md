@@ -1,5 +1,7 @@
 # 🛒 E-commerce Web Application  
 
+This project is mainted private for access please contact
+
 ![React](https://img.shields.io/badge/Frontend-React-blue)  
 ![Django](https://img.shields.io/badge/Backend-Django-green)  
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)  
