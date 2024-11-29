@@ -42,27 +42,9 @@ This project is a full-stack e-commerce web application built using **Django** a
 ### **Hosting**
 - Render  
 
----
-
-## 🌐 Live Demo
-Check out the live application: [E-commerce Live URL](https://newshop-ohta.onrender.com)  
-
----
-
-## 📂 Source Code Access
-The source code for this project is **private**.  
-To access the source code, please:  
-1. Purchase it here: 👉 [https://selar.co/027smn](https://selar.co/027smn)  
-2. Alternatively, contact me directly for authorization.  
-
----
 
 ## 📧 Contact
-For any questions or further information, reach out to:  
-- **Email**: [email@example.com](mailto:email@example.com)  
+This project is mainted private for access please contact
+- **Email**: [vmvalluru@gmail.com](mailto:vmvalluru@gmail.com)  
 
----
 
-### 👨‍💻 Author
-This project was developed to help developers master e-commerce development and deployment with Django and React.  
-Feel free to contribute by suggesting improvements or new features!  
